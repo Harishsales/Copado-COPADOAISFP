@@ -8,6 +8,10 @@
     <custom>true</custom>
     <description n1:nil="true" />
     <loginHours n1:nil="true" />
+    <tabVisibilities>
+        <tab>HarishRich</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>High Volume Customer Portal</userLicense>
     <userPermissions>
         <enabled>true</enabled>
