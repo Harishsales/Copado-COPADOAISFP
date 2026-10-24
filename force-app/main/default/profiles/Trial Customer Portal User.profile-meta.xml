@@ -5,6 +5,14 @@
         <dataCategoryGroup>Topic</dataCategoryGroup>
         <visibility>ALL</visibility>
     </categoryGroupVisibilities>
+    <classAccesses>
+        <apexClass>PrinterService</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>PrinterServiceTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <description n1:nil="true" />
     <loginHours n1:nil="true" />
